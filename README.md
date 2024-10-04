@@ -2,6 +2,8 @@
 
 This project is a fully responsive login page that was translated from an image into code using HTML, CSS, and JavaScript. The page features a clean and modern design, with smooth interactions and validation to enhance user experience.
 
+![Login Page Preview](./assets/loginup-page.jpeg)
+
 ## Features
 
 - **Responsive Design**: The login page adjusts to different screen sizes for optimal user experience across devices.
